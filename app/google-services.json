@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896405978747",
+    "project_id": "album-b6f3c",
+    "storage_bucket": "album-b6f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896405978747:android:72a2cf1d957dae1584acde",
+        "android_client_info": {
+          "package_name": "com.example.albumnfts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896405978747-ech0ftmi14qlkd5kgv8f9jkekq9fl03o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj53knp2BaD-uP4Ap5B6xeidhkd-kZLbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896405978747-ech0ftmi14qlkd5kgv8f9jkekq9fl03o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
