@@ -11,7 +11,7 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/tv"
+        android:text="Correo"
         android:textAlignment="center"
         android:textSize="24sp" />
 
@@ -28,7 +28,7 @@
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/tv_clave"
+        android:text="Clave"
         android:textAlignment="center"
         android:textSize="24sp" />
 
