@@ -14,9 +14,40 @@
         <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_delete_foreground.xml" value="0.2225" />
         <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_email.xml" value="0.2225" />
         <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_location.xml" value="0.2355" />
         <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_login.xml" value="0.2225" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_logoff.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_mic.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_phone.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_photo.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_play.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_register.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_rotate_l.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_rotate_r.xml" value="0.2355" />
         <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/ic_stop.xml" value="0.2225" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/drawable/side_nav_bar.xml" value="0.2355" />
         <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/layout/activity_principal.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/layout/album_fila.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/layout/app_bar_principal.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/layout/content_principal.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/layout/fragment_add_album.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/layout/fragment_album.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/layout/fragment_update_album.xml" value="0.1" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/layout/nav_header_principal.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/menu/delete_menu.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/menu/principal.xml" value="0.25" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/mipmap-anydpi-v26/ic_delete.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/mipmap-anydpi-v26/ic_delete_round.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2355" />
+        <entry key="..\:/Users/mpaul/Downloads/Parcial II/AlbumNFTs/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2355" />
       </map>
     </option>
   </component>

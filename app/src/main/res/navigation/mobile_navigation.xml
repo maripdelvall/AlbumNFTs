@@ -3,51 +3,51 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/nav_lugar">
+    app:startDestination="@+id/nav_album">
 
     <fragment
-        android:id="@+id/nav_lugar"
-        android:name="com.example.lugares.ui.lugar.LugarFragment"
-        android:label="@string/menu_lugar"
-        tools:layout="@layout/fragment_lugar" >
+        android:id="@+id/nav_album"
+        android:name="com.example.albumnfts.ui.album.AlbumFragment"
+        android:label="@string/menu_album"
+        tools:layout="@layout/fragment_album" >
         <action
-            android:id="@+id/action_nav_lugar_to_addLugarFragment"
-            app:destination="@id/addLugarFragment" />
+            android:id="@+id/action_nav_album_to_addAlbumFragment"
+            app:destination="@id/addAlbumFragment" />
         <action
-            android:id="@+id/action_nav_lugar_to_updateLugarFragment"
-            app:destination="@id/updateLugarFragment" />
+            android:id="@+id/action_nav_album_to_updateAlbumFragment"
+            app:destination="@id/updateAlbumFragment" />
     </fragment>
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="com.example.lugares.ui.gallery.GalleryFragment"
+        android:name="com.example.albumnfts.ui.gallery.GalleryFragment"
         android:label="@string/menu_gallery"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="com.example.lugares.ui.slideshow.SlideshowFragment"
+        android:name="com.example.albumnfts.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
     <fragment
-        android:id="@+id/addLugarFragment"
-        android:name="com.example.lugares.ui.lugar.AddLugarFragment"
-        android:label="fragment_add_lugar"
-        tools:layout="@layout/fragment_add_lugar" >
+        android:id="@+id/addAlbumFragment"
+        android:name="com.example.albumnfts.ui.album.AddAlbumFragment"
+        android:label="fragment_add_album"
+        tools:layout="@layout/fragment_add_album" >
         <action
-            android:id="@+id/action_addLugarFragment_to_nav_lugar"
-            app:destination="@id/nav_lugar" />
+            android:id="@+id/action_addAlbumFragment_to_nav_album"
+            app:destination="@id/nav_album" />
     </fragment>
     <fragment
-        android:id="@+id/updateLugarFragment"
-        android:name="com.example.lugares.ui.lugar.UpdateLugarFragment"
+        android:id="@+id/updateAlbumFragment"
+        android:name="com.example.albumnfts.ui.album.UpdateAlbumFragment"
         android:label="@string/update_place"
-        tools:layout="@layout/fragment_update_lugar" >
+        tools:layout="@layout/fragment_update_album" >
         <action
-            android:id="@+id/action_updateLugarFragment_to_nav_lugar"
-            app:destination="@id/nav_lugar" />
+            android:id="@+id/action_updateAlbumFragment_to_nav_album"
+            app:destination="@id/nav_album" />
         <argument
-            android:name="lugar"
-            app:argType="com.example.lugares.model.Lugar" />
+            android:name="album"
+            app:argType="com.example.albumnfts.model.Album" />
     </fragment>
 </navigation>
